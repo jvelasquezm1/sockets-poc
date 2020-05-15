@@ -1,0 +1,24 @@
+{
+  "name": "sockets-poc",
+  "version": "1.0.0",
+  "description": "socket.io poc",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvelasquezm1/sockets-poc.git"
+  },
+  "author": "Juan Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvelasquezm1/sockets-poc/issues"
+  },
+  "homepage": "https://github.com/jvelasquezm1/sockets-poc#readme"
+}
